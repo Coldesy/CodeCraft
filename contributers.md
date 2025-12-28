@@ -52,6 +52,7 @@
 | Ansh Patel             | ansh54052           | IIIT Allahabad                  |
 | Sahil                   |Sahil-git005          | IIIT Allahabad               |
 | Naman Pal              | Naman2251              | IIIT Allahabad                |
+| Adarsh Yadav           | adrsh2808-creator      | IIIT Allahabad                |
 |Priyanshi Giri           | hellopaintinghi-cmd    |IIIT Allahabad               |
 | Sudhanshu              | sahsudhanshu        | IIIT Allahabad                 |
 | Ankit Pal              | icyfire8               | IIIT Allahabad |
